@@ -1,0 +1,7 @@
+com/monkeysuds/service/petstore/api/PetsApiController.class
+com/monkeysuds/service/petstore/api/PetsApiDelegate.class
+com/monkeysuds/service/petstore/model/Error.class
+com/monkeysuds/service/petstore/model/Pet.class
+com/monkeysuds/service/petstore/api/PetsApi.class
+com/monkeysuds/service/petstore/model/Pets.class
+com/monkeysuds/service/App.class
